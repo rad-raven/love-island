@@ -1,0 +1,28 @@
+id,name,gender,age,hometown_region,entry_day,occupation
+M1,Bryce,M,29,West,1,model
+M2,Sincere,M,25,East,1,track coach
+M3,Zach,M,26,International,1,content creator
+M4,KC,M,23,West,1,nursing assitant
+M5,Sean,M,29,East,1,cop
+M6,Gabriel,M,26,South,2,model
+M7,Corbin,M,22,South,5,business owner
+M8,Caleb,M,21,South,7,mechanic
+M9,Carl,M,28,West,17,student
+M10,Dylan,M,24,Midwest,17,model
+M11,Gal,M,29,West,17,coffee shop owner
+M12,Chay,M,27,West,17,na
+M13,Corey,M,24,South,17,na
+M14,Ronnie,M,25,East,17,na
+F1,Trinity,F,22,East,1,hardware store employee
+F2,Aniya,F,23,South,1,marketing director
+F3,Melanie,F,24,East,1,bikini store manager
+F4,Kenzie,F,24,South,1,student
+F5,Beatriz,F,25,West,1,paralympic athlete
+F6,Kayda,F,22,East,2,server
+F7,Jen,F,23,South,7,model
+F8,Sol,F,24,West,7,server
+F9,Tierra,F,25,West,16,nanny
+F10,Parmida,F,27,South,16,personal trainer
+F11,Amora,F,21,South,16,student
+F12,Jaiden,F,22,West,16,na
+F13,Sydney,F,25,South,16,cardiology medical assistant
